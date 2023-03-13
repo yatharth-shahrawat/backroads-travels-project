@@ -2,7 +2,7 @@
 
 A React practice fun project that displays a beautiful website of a Tours and Travels Company.
 
-_Check out the live site of the project [Drinks Project](https://backroads-travels-react.netlify.app/)_
+_Check out the live site of the project [Tours and Travels Project](https://backroads-travels-react.netlify.app/)_
 
 ## Installation and Setup Instructions
 
